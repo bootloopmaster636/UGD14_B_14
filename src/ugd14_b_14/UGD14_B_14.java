@@ -10,6 +10,6 @@ package ugd14_b_14;
  */
 public class UGD14_B_14 {
 	public static void main(String[] args) {
-		System.out.println("wkwkwk");
+		
 	}
 }

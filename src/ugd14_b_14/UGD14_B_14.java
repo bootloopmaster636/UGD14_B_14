@@ -10,6 +10,6 @@ package ugd14_b_14;
  */
 public class UGD14_B_14 {
 	public static void main(String[] args) {
-		// TODO code application loic here
+		System.out.println("wkwkwk");
 	}
 }
